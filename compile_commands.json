@@ -1,0 +1,18 @@
+[
+ {
+  "directory": "C:\\Users\\editm\\Documents\\GitHub\\Gravity-simulation",
+  "arguments": [
+   "g++",
+   "-MMD",
+   "-MP",
+   "-c",
+   "-std=c++17",
+   "-I",
+   "include",
+   "src/main.cpp",
+   "-o",
+   "bin/main.o"
+  ],
+  "file": "src/main.cpp"
+ }
+]
